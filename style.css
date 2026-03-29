@@ -419,6 +419,7 @@ img { display: block; }
   background: rgba(255,255,255,0.015);
   overflow: hidden;
   padding: 20px 0;
+  margin-top: 20px;
 }
 .tech-ticker { overflow: hidden; width: 100%; }
 .tech-ticker-track {
